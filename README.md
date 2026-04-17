@@ -1,18 +1,18 @@
-Title
-Customer Analysis using Random Forest
+# Title
+## Customer Analysis using Random Forest
 
-Problem
+## Problem
 Predict which customers are likely to leave
 
-Dataset
+## Dataset
 Telco Customer Churn Dataset
 
-Approach
+## Approach
 Data preprocessing (Missing values handling, One-Hot Encoding, Label Encoding, Feature Scaling)
 Model: Random Forest
 Hyperparameter tuning using GridSearchCV
 K-Fold Cross Validation
 
-Results
+## Results
 Accuracy: ~80%
 Standard Deviation: 1.34%
